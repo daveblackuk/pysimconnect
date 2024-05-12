@@ -3530,20 +3530,6 @@
         }
     },
     "VARIABLES": {
-        "IS IN VR": {
-            "name": "IS IN VR",
-            "description": "IS IN VR",
-            "units": "Bool",
-            "settable": false,
-            "url": "https://docs.flightsimulator.com/html/Programming_Tools/SimVars/Aircraft_SimVars/Aircraft_AutopilotAssistant_Variables.htm",
-            "page": "AIRCRAFT AUTOPILOT/ASSISTANT VARIABLES",
-            "section": "",
-            "name_std": "IS IN VR",
-            "units_std": "Bool",
-            "dimensions": "Miscellaneous Units",
-            "indexed": false
-        },
-
         "AUTOPILOT AIRSPEED ACQUISITION": {
             "name": "AUTOPILOT AIRSPEED ACQUISITION",
             "description": "Currently not used within the simulation.",
